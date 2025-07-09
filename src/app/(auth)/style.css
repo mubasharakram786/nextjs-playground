@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mr-4{
+    margin-right: 1rem;
+}
+.font-regular{
+    font-weight: 400;
+}
+.color-blue{
+    color: #1170ff;
+}
+.font-bold{
+    font-weight: bold;
+}
+.color-black{
+    color: #000;
+}
